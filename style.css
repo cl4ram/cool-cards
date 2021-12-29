@@ -118,13 +118,13 @@ h5{
 .liquid:before{
     background: rgba(20,20,20,1);
     border-radius: 45%;
-    animation: wave 4s infinite linear;
+    animation: wave 6s infinite linear;
 }
 
 .liquid:after{
     background: rgba(20,20,20,0.5);
     border-radius: 40%;
-    animation: wave 4s infinite linear;
+    animation: wave 6s infinite linear;
 }
 
 @keyframes wave{
